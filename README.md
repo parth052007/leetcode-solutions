@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/parth052007/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/parth052007/leetcode-solutions/tree/master/0070-climbing-stairs) |
 ## Manacher
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/parth052007/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/parth052007/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/parth052007/leetcode-solutions/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/parth052007/leetcode-solutions/tree/master/0070-climbing-stairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/parth052007/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/parth052007/leetcode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
