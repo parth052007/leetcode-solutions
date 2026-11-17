@@ -117,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/parth052007/leetcode-solutions/tree/master/0100-same-tree) |
+## Database
+|  |
+| ------- |
+| [0183-customers-who-never-order](https://github.com/parth052007/leetcode-solutions/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
