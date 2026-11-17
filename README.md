@@ -121,4 +121,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/parth052007/leetcode-solutions/tree/master/0183-customers-who-never-order) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/parth052007/leetcode-solutions/tree/master/0190-reverse-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/parth052007/leetcode-solutions/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
