@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/parth052007/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/parth052007/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/parth052007/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/parth052007/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/parth052007/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/parth052007/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/parth052007/leetcode-solutions/tree/master/0067-add-binary) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/parth052007/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/parth052007/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/parth052007/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/parth052007/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/parth052007/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/parth052007/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/parth052007/leetcode-solutions/tree/master/0069-sqrtx) |
@@ -176,5 +178,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/parth052007/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/parth052007/leetcode-solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
